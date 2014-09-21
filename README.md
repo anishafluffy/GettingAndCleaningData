@@ -1,6 +1,4 @@
-GettingAndCleaningData
-======================
-README
+GettingAndCleaningData README
 ========================================================
 
 The run_analysis script uses the data in the "UCI HAR Dataset"
